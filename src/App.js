@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         jolie
+         jolie la vie
         </a>
       </header>
     </div>
